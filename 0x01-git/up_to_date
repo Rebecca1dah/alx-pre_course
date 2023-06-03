@@ -1,0 +1,8 @@
+git clone
+git add .
+git commit -m "text"
+git push
+git pull
+git merge
+git branch
+git checkout name_branch
